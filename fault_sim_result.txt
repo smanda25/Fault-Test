@@ -1,0 +1,16 @@
+# fault sim result 
+# circuit bench: s27.bench 
+# fault: G3-SA-1 
+# TV: 0011
+
+Output value -> 11111 (good)(Max Cycle to Min cycle)
+
+
+
+
+
+
+
+
+
+
